@@ -1,10 +1,10 @@
-# Images-optimization-sh
+# Linux bash script
 
 Optimizing images inside a folder in the console linux
 
-## jpg and png
+### jpg and png
 
-# Dependencies
+## Dependencies
 
   - Use system opertative Linux
 
@@ -28,7 +28,7 @@ Optimizing images inside a folder in the console linux
 
       $ sudo yum install optipng
     
-# Use
+## Use
 
   - Run in terminal
   

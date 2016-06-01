@@ -40,6 +40,7 @@ Optimizing images inside a folder in the console linux
 
 ### Code
 
+```sh
 #!/bin/bash
 #optimize_images
 
@@ -59,3 +60,4 @@ else
   echo "No existe el directorio"
 fi
 exit
+```
